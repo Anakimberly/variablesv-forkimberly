@@ -2,11 +2,13 @@
 import HelloWorld from './components/HelloWorld.vue'
 import Recorrido from './components/Recorrido.vue'
 import Recorrido2 from './components/Recorrido2.vue'
+import Horario from './components/Horario.vue'
 </script>
 
 <template>
+  <Horario/>
   <!-- <HelloWorld msg="Vite + Vue" /> -->
-   <Recorrido/>
+   <!-- <Recorrido/> -->
    <!-- <Recorrido2/> -->
 </template>
 
