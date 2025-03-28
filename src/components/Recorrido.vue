@@ -31,7 +31,7 @@ export default{
  <style>
  h3{
     color:black;
-    background-color:rgb(237, 182, 114);
+    background-color:rgb(171, 255, 52);
     border-radius: 15px;
     padding: 10px;
     text-align: center;
