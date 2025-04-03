@@ -1,17 +1,16 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import Recorrido from './components/Recorrido.vue'
-import Recorrido2 from './components/Recorrido2.vue'
-import Horario from './components/Horario.vue'
-import Horario2 from './components/Horario2.vue'
+import CalculadoraV1 from './components/calculadora/CalculadoraV1.vue';
+import Calculadora2 from './components/calculadora/Calculadora2.vue';
+// import Eventos22 from './components/Eventos/Eventos2.2.vue';
+// import Eventos from './components/Eventos/Eventos.vue';
+
 </script>
 
 <template>
-  <Horario2/>
-  <!-- <Horario/> -->
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
-   <!-- <Recorrido/> -->
-   <!-- <Recorrido2/> -->
+  <!-- <CalculadoraV1/> -->
+  <Calculadora2/>
+  <!-- <Eventos22/> -->
+ <!-- <Eventos/> -->
 </template>
 
 <style scoped>
